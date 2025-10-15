@@ -1,0 +1,3 @@
+/downloads*
+messages*
+!/data/messages.example.json
